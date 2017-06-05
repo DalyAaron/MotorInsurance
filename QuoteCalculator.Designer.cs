@@ -249,6 +249,8 @@
             this.occupationList.Name = "occupationList";
             this.occupationList.Size = new System.Drawing.Size(228, 33);
             this.occupationList.TabIndex = 19;
+            this.occupationList.Text = "Please Select...";
+            this.occupationList.SelectedIndexChanged += new System.EventHandler(this.occupationList_SelectedIndexChanged);
             // 
             // driverList
             // 

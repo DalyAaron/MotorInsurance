@@ -1,0 +1,9 @@
+C:\Users\New User\Documents\digidaly\YouPlan\Main\MotorInsuranceCalculation\MotorInsuranceCalculation\bin\Release\MotorInsuranceCalculation.exe.config
+C:\Users\New User\Documents\digidaly\YouPlan\Main\MotorInsuranceCalculation\MotorInsuranceCalculation\bin\Release\MotorInsuranceCalculation.exe
+C:\Users\New User\Documents\digidaly\YouPlan\Main\MotorInsuranceCalculation\MotorInsuranceCalculation\bin\Release\MotorInsuranceCalculation.pdb
+C:\Users\New User\Documents\digidaly\YouPlan\Main\MotorInsuranceCalculation\MotorInsuranceCalculation\obj\Release\MotorInsuranceCalculation.csprojResolveAssemblyReference.cache
+C:\Users\New User\Documents\digidaly\YouPlan\Main\MotorInsuranceCalculation\MotorInsuranceCalculation\obj\Release\MotorInsuranceCalculation.QuoteCalculator.resources
+C:\Users\New User\Documents\digidaly\YouPlan\Main\MotorInsuranceCalculation\MotorInsuranceCalculation\obj\Release\MotorInsuranceCalculation.Properties.Resources.resources
+C:\Users\New User\Documents\digidaly\YouPlan\Main\MotorInsuranceCalculation\MotorInsuranceCalculation\obj\Release\MotorInsuranceCalculation.csproj.GenerateResource.Cache
+C:\Users\New User\Documents\digidaly\YouPlan\Main\MotorInsuranceCalculation\MotorInsuranceCalculation\obj\Release\MotorInsuranceCalculation.exe
+C:\Users\New User\Documents\digidaly\YouPlan\Main\MotorInsuranceCalculation\MotorInsuranceCalculation\obj\Release\MotorInsuranceCalculation.pdb
